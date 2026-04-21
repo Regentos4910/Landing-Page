@@ -1,5 +1,5 @@
-# Firebase Studio
+# Generic Drug AI Suggester
 
-This is a NextJS starter in Firebase Studio.
+This is a simple Generic Drug Ai Suggester that uses Gemini as the AI model and it is hosted using vercel
 
-To get started, take a look at src/app/page.tsx.
+Problems may arise when hosting on Vercel as there is some problems after the Vercel getting hacked
